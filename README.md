@@ -1,2 +1,3 @@
 ﻿# socis.github.io
-Collaborators: Zachary Randolph
+﻿The Society of Computing and Information Science
+﻿Collaborators: 
